@@ -1,7 +1,0 @@
-{
-    "Food": ["groceries", "restaurant", "takeout"],
-    "Transport": ["uber", "taxi", "gas", "metro"],
-    "Entertainment": ["movie", "concert", "game"],
-    "Bills": ["electric", "water", "internet"],
-    "Other": []
-}
